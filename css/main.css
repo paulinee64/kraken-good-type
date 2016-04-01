@@ -4,7 +4,8 @@ html{
 }
 
 article{
-  width: 47em
+  width: 47em;
+  margin: 0 auto;
 }
 
 header{
