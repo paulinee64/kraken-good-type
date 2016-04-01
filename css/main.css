@@ -7,4 +7,10 @@ header{
 .chapter-num {
   font-style: oblique;
   font-size: 1rem;
+  width: 100%;
+  background: yellow;
+}
+
+.colon {
+  display: none;
 }
