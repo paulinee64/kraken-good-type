@@ -1,14 +1,14 @@
 
-html{
+html {
   font-family: "Libre Baskerville", serif;
 }
 
-article{
+article {
   width: 47em;
   margin: 0 auto;
 }
 
-header{
+header {
   background-color: #259f95;
   color: #fff;
   padding: 1em;
@@ -31,4 +31,18 @@ header{
 
 p{
   text-indent: 1.5em;
+}
+
+img {
+  width: 100%;
+  border-radius: 5px;
+  border: 1px solid #1e7c74;
+}
+
+footer {
+  background-color: #259f95;
+  border-radius: 5px 5px 0 0;
+  padding: 1em;
+  text-align: center;
+  color: #fff;
 }
