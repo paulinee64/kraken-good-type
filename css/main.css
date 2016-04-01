@@ -1,16 +1,33 @@
+
+html{
+  font-family: "Libre Baskerville", serif;
+}
+
+article{
+  width: 47em
+}
+
 header{
   background-color: #259f95;
-  color: #fff
-
+  color: #fff;
+  padding: 1em;
+  border-radius: 0 0 5px 5px;
+  line-height: 1.5em;
+  font-weight: lighter;
 }
 
 .chapter-num {
   font-style: oblique;
   font-size: 1rem;
   width: 100%;
-  background: yellow;
+  display: block;
+
 }
 
 .colon {
   display: none;
+}
+
+p{
+  text-indent: 1.5em;
 }
